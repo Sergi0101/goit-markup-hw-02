@@ -145,6 +145,9 @@ h3 {
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
+.project-card {
+  letter-spacing: 0.02em;
+}
 .lovely-paragraf {
   line-height: 1.5;
   letter-spacing: 0.02em;
